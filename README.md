@@ -30,6 +30,11 @@ A simple Calculator application built with HTML, CSS, and JavaScript that provid
 3. Open `index.html` in your browser.
 4. Start calculating!
 
+##  Screenshot 
+   ![Calculator Screenshot](./Calculator/image.png)
+
+
+
 ## Key Features Explained
 - **Scientific Functions**: Access advanced mathematical operations like logarithms, trigonometric functions, and more
 - **Responsive Layout**: Optimized for both desktop and mobile devices
